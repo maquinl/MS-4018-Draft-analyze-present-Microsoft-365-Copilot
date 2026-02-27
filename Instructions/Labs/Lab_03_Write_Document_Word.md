@@ -1,7 +1,7 @@
 ---
 lab:
   title: 'Lab 3: Draft, improve, and share your document with Copilot in Word'
-  description: 'Microsoft 365 Copilot – Discover how Copilot in Word's functionality allows you to create, improve, and share a document.'
+  description: 'Microsoft 365 Copilot – Use Copilot in Word to create, edit, and share a document.'
   level: 'Lab 100'
   duration: '30'
 ---
