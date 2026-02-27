@@ -5,7 +5,6 @@ lab:
   level: 'Lab 100'
   duration: '30'
 ---
-
 # Lab 3 - Draft, improve, and share your document with Copilot in Word
 
 Imagine you're a project manager tasked with creating a comprehensive project report for your company's new Mystic Spice Premium Chai Tea. In this Lab, you use Microsoft Word to draft the report, convert text to a table for easier readability, and summarize your document to ensure clear, concise content.
