@@ -1,6 +1,6 @@
 ---
 lab:
-  title: 'Follow along using sample data with Microsoft 365 Copilot'
+  title: 'Lab 00: Setup'
   description: Set up your environment by uploading the sample files needed for the labs.
   level: Lab 100
   duration: '15'
