@@ -1,3 +1,15 @@
+---
+lab:
+  title: 'Follow along using sample data with Microsoft 365 Copilot'
+  description: Set up your environment by uploading the sample files needed for the labs.
+  level: Lab 100
+  duration: '15'
+  islab: true
+  primarytopics:
+    - Microsoft 365
+    - Microsoft 365 Copilot
+---
+
 # Follow along using sample data with Microsoft 365 Copilot
 
 Throughout these labs, we'll be crafting prompts for Microsoft 365 Copilot that reference the following files:
